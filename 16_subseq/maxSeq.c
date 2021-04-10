@@ -21,6 +21,6 @@ size_t maxSeq(int * array, size_t n){
       if(counter > max)
 	max = counter;
     }
-    return counter;
+    return max;
     }
 }
