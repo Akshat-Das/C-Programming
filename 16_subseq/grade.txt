@@ -1,0 +1,9 @@
+Grading at Sat Apr 10 16:10:38 UTC 2021
+Attempting to compile maxSeq.c 
+maxSeq.c: In function ‘maxSeq’:
+maxSeq.c:25:5: error: expected declaration or statement at end of input
+     }
+     ^
+The code did not compile!
+
+Overall Grade: F
